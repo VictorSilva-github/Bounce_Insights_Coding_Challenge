@@ -11,7 +11,7 @@ const GetInfoCountry = async (name: string) => {
     let data: any = ""
 
     //Using axios to make a GET request to the endpoint.
-    await axios.get(`http://localhost:8081/country-name/${name}`)
+    await axios.get(`https://bounce-backend.vercel.app/country-name/${name}`)
         .then((response: any) => {
 
             //for debugging purposes

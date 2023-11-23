@@ -20,7 +20,7 @@ Make sure you have the following software installed on your machine:
  - npm (comes with Node.js)
 
 <h2>1) Installation</h2>
-Clone the repository:
+Clone the repository:<br>
 git clone https://github.com/VictorSilva-github/Bounce_Insights_Coding_Challenge.git
 
 <h2>2) Navigate to the project folder:</h2>
@@ -30,15 +30,15 @@ cd backend
 npm install
 
 <h2>4) Start the development server:</h2>
-cd frontend
-npm start
- - Open your browser and go to http://localhost:3000.
- - Enter a country name in the input field and click the "Search" button.
- - View country information displayed on the screen.
+cd frontend<br>
+npm start<br>
+ - Open your browser and go to http://localhost:3000.<br>
+ - Enter a country name in the input field and click the "Search" button.<br>
+ - View country information displayed on the screen.<br>
 
 
 <h2>Folder Structure</h2>
-The project has the following folder structure:
+The project has the following folder structure:<br>
 Bounce_Insights_Coding_Challenge/<br>
 |-- backend<br>
 |-- frontend<br>
@@ -49,7 +49,7 @@ Bounce_Insights_Coding_Challenge/<br>
 The getCountries.ts file in the services folder contains the function for fetching country information from the API.
 
 <h2>Troubleshooting</h2>
-If you encounter any issues, please check the following:
+If you encounter any issues, please check the following:<br>
  - Ensure you have a stable internet connection.<br>
  - Verify that the API server is running.<br>
 <br>
